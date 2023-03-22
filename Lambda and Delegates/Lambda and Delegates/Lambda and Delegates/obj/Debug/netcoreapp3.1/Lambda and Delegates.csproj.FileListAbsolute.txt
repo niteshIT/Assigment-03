@@ -1,0 +1,14 @@
+C:\Users\neerajdhakad\Desktop\neeraj-dhakad\C#\Lambda and Delegates\Lambda and Delegates\Lambda and Delegates\bin\Debug\netcoreapp3.1\Lambda and Delegates.exe
+C:\Users\neerajdhakad\Desktop\neeraj-dhakad\C#\Lambda and Delegates\Lambda and Delegates\Lambda and Delegates\bin\Debug\netcoreapp3.1\Lambda and Delegates.deps.json
+C:\Users\neerajdhakad\Desktop\neeraj-dhakad\C#\Lambda and Delegates\Lambda and Delegates\Lambda and Delegates\bin\Debug\netcoreapp3.1\Lambda and Delegates.runtimeconfig.json
+C:\Users\neerajdhakad\Desktop\neeraj-dhakad\C#\Lambda and Delegates\Lambda and Delegates\Lambda and Delegates\bin\Debug\netcoreapp3.1\Lambda and Delegates.runtimeconfig.dev.json
+C:\Users\neerajdhakad\Desktop\neeraj-dhakad\C#\Lambda and Delegates\Lambda and Delegates\Lambda and Delegates\bin\Debug\netcoreapp3.1\Lambda and Delegates.dll
+C:\Users\neerajdhakad\Desktop\neeraj-dhakad\C#\Lambda and Delegates\Lambda and Delegates\Lambda and Delegates\bin\Debug\netcoreapp3.1\Lambda and Delegates.pdb
+C:\Users\neerajdhakad\Desktop\neeraj-dhakad\C#\Lambda and Delegates\Lambda and Delegates\Lambda and Delegates\obj\Debug\netcoreapp3.1\Lambda and Delegates.csproj.AssemblyReference.cache
+C:\Users\neerajdhakad\Desktop\neeraj-dhakad\C#\Lambda and Delegates\Lambda and Delegates\Lambda and Delegates\obj\Debug\netcoreapp3.1\Lambda and Delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neerajdhakad\Desktop\neeraj-dhakad\C#\Lambda and Delegates\Lambda and Delegates\Lambda and Delegates\obj\Debug\netcoreapp3.1\Lambda and Delegates.AssemblyInfoInputs.cache
+C:\Users\neerajdhakad\Desktop\neeraj-dhakad\C#\Lambda and Delegates\Lambda and Delegates\Lambda and Delegates\obj\Debug\netcoreapp3.1\Lambda and Delegates.AssemblyInfo.cs
+C:\Users\neerajdhakad\Desktop\neeraj-dhakad\C#\Lambda and Delegates\Lambda and Delegates\Lambda and Delegates\obj\Debug\netcoreapp3.1\Lambda and Delegates.csproj.CoreCompileInputs.cache
+C:\Users\neerajdhakad\Desktop\neeraj-dhakad\C#\Lambda and Delegates\Lambda and Delegates\Lambda and Delegates\obj\Debug\netcoreapp3.1\Lambda and Delegates.dll
+C:\Users\neerajdhakad\Desktop\neeraj-dhakad\C#\Lambda and Delegates\Lambda and Delegates\Lambda and Delegates\obj\Debug\netcoreapp3.1\Lambda and Delegates.pdb
+C:\Users\neerajdhakad\Desktop\neeraj-dhakad\C#\Lambda and Delegates\Lambda and Delegates\Lambda and Delegates\obj\Debug\netcoreapp3.1\Lambda and Delegates.genruntimeconfig.cache
