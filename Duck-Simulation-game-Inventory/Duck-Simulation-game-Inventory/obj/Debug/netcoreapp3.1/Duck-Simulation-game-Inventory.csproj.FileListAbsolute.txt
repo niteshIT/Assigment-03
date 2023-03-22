@@ -1,0 +1,14 @@
+C:\Users\neerajdhakad\source\repos\Duck-Simulation-game-Inventory\Duck-Simulation-game-Inventory\obj\Debug\netcoreapp3.1\Duck-Simulation-game-Inventory.csproj.AssemblyReference.cache
+C:\Users\neerajdhakad\source\repos\Duck-Simulation-game-Inventory\Duck-Simulation-game-Inventory\obj\Debug\netcoreapp3.1\Duck-Simulation-game-Inventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neerajdhakad\source\repos\Duck-Simulation-game-Inventory\Duck-Simulation-game-Inventory\obj\Debug\netcoreapp3.1\Duck-Simulation-game-Inventory.AssemblyInfoInputs.cache
+C:\Users\neerajdhakad\source\repos\Duck-Simulation-game-Inventory\Duck-Simulation-game-Inventory\obj\Debug\netcoreapp3.1\Duck-Simulation-game-Inventory.AssemblyInfo.cs
+C:\Users\neerajdhakad\source\repos\Duck-Simulation-game-Inventory\Duck-Simulation-game-Inventory\obj\Debug\netcoreapp3.1\Duck-Simulation-game-Inventory.csproj.CoreCompileInputs.cache
+C:\Users\neerajdhakad\source\repos\Duck-Simulation-game-Inventory\Duck-Simulation-game-Inventory\bin\Debug\netcoreapp3.1\Duck-Simulation-game-Inventory.exe
+C:\Users\neerajdhakad\source\repos\Duck-Simulation-game-Inventory\Duck-Simulation-game-Inventory\bin\Debug\netcoreapp3.1\Duck-Simulation-game-Inventory.deps.json
+C:\Users\neerajdhakad\source\repos\Duck-Simulation-game-Inventory\Duck-Simulation-game-Inventory\bin\Debug\netcoreapp3.1\Duck-Simulation-game-Inventory.runtimeconfig.json
+C:\Users\neerajdhakad\source\repos\Duck-Simulation-game-Inventory\Duck-Simulation-game-Inventory\bin\Debug\netcoreapp3.1\Duck-Simulation-game-Inventory.runtimeconfig.dev.json
+C:\Users\neerajdhakad\source\repos\Duck-Simulation-game-Inventory\Duck-Simulation-game-Inventory\bin\Debug\netcoreapp3.1\Duck-Simulation-game-Inventory.dll
+C:\Users\neerajdhakad\source\repos\Duck-Simulation-game-Inventory\Duck-Simulation-game-Inventory\bin\Debug\netcoreapp3.1\Duck-Simulation-game-Inventory.pdb
+C:\Users\neerajdhakad\source\repos\Duck-Simulation-game-Inventory\Duck-Simulation-game-Inventory\obj\Debug\netcoreapp3.1\Duck-Simulation-game-Inventory.dll
+C:\Users\neerajdhakad\source\repos\Duck-Simulation-game-Inventory\Duck-Simulation-game-Inventory\obj\Debug\netcoreapp3.1\Duck-Simulation-game-Inventory.pdb
+C:\Users\neerajdhakad\source\repos\Duck-Simulation-game-Inventory\Duck-Simulation-game-Inventory\obj\Debug\netcoreapp3.1\Duck-Simulation-game-Inventory.genruntimeconfig.cache
