@@ -1,0 +1,7 @@
+C:\Users\nitesh01\source\repos\Product-Inventory software\Product-Inventory software\bin\Debug\Product-Inventory software.exe.config
+C:\Users\nitesh01\source\repos\Product-Inventory software\Product-Inventory software\bin\Debug\Product-Inventory software.exe
+C:\Users\nitesh01\source\repos\Product-Inventory software\Product-Inventory software\bin\Debug\Product-Inventory software.pdb
+C:\Users\nitesh01\source\repos\Product-Inventory software\Product-Inventory software\obj\Debug\Product-Inventory software.csproj.AssemblyReference.cache
+C:\Users\nitesh01\source\repos\Product-Inventory software\Product-Inventory software\obj\Debug\Product-Inventory software.csproj.CoreCompileInputs.cache
+C:\Users\nitesh01\source\repos\Product-Inventory software\Product-Inventory software\obj\Debug\Product-Inventory software.exe
+C:\Users\nitesh01\source\repos\Product-Inventory software\Product-Inventory software\obj\Debug\Product-Inventory software.pdb
