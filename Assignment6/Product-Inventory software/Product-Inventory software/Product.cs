@@ -17,11 +17,12 @@ namespace Product_Inventory_software
             {
                 if (price != value)
                 {
-                    //priceChangedEventArgs e = new PriceChangedEventArgs(value - price);
+                    Events e = new Events(price, value);
+                    OnPriceChanged(e);
                     price = value;
-                    //ChangePrice(this, e);
                     
-                    OnPriceChanged();
+                    
+                    
                 }
             }
         }
@@ -41,14 +42,15 @@ namespace Product_Inventory_software
             return (this.Id == other.Id);
         }
 
-        public delegate void PriceChangedEventHandler(object sender, EventArgs e);
+        public delegate void PriceChangedEventHandler(object sender, Events e);
+       
         public event PriceChangedEventHandler PriceChanged;
         public delegate void DefectiveEventHandler(object sender, EventArgs e);
         public event DefectiveEventHandler Defective;
 
-        protected virtual void OnPriceChanged()
+        protected virtual void OnPriceChanged(Events e)
         {
-            PriceChanged?.Invoke(this, EventArgs.Empty);
+            PriceChanged?.Invoke(this, e);
         }
         protected virtual void OnDefective()
         {

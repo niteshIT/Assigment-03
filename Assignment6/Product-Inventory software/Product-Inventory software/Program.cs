@@ -12,6 +12,7 @@ namespace Product_Inventory_software
         {
             Inventory inventory1 = new Inventory();
             Product product1 = new Product(1, 40);
+            
             inventory1.AddProduct(product1, 30);
 
 
@@ -19,11 +20,11 @@ namespace Product_Inventory_software
             inventory1.AddProduct(product2, 500);
 
 
-            Console.WriteLine(inventory1.GetTotalValue());
+            Console.WriteLine(" Total value is "+ inventory1.GetTotalValue());
             inventory1.MarkProductAsDefective(product1);
-            Console.WriteLine(inventory1.GetTotalValue());
+            Console.WriteLine(" Total value is " + inventory1.GetTotalValue());
             product2.Price = 50;
-            Console.WriteLine(inventory1.GetTotalValue());
+            Console.WriteLine(" Total value is " + inventory1.GetTotalValue());
             Console.ReadKey();
         }
     }

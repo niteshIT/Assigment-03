@@ -25,12 +25,12 @@ namespace Product_Inventory_software
             totalValue += product.Price * quantity;
         }
 
-        private void Product_PriceChanged(object sender, EventArgs e)
+        private void Product_PriceChanged(object sender, Events e)
         {
             Product product = (Product)sender;
             int quantity = products[product];
-            //totalValue -= product.Price * quantity;
-            totalValue += product.Price * quantity;
+            totalValue -= e.OldPrice * quantity;
+            totalValue += e.NewPrice * quantity;
         }
         private void Product_Defective(object sender, EventArgs e)
         {
